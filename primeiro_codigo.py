@@ -1,1 +1,3 @@
-a = 5
+print('hello world')
+
+print('nova versão')
